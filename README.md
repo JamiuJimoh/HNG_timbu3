@@ -15,7 +15,7 @@ Test the app on [Appetize](https://appetize.io/app/b_2x5sa7gzmzimvvsjgmbxomhfyu?
 or download the [apk](https://drive.google.com/file/d/151JBVvXiwgau4RQwf1fUY5qQLpubH87_/view?usp=sharing)
 
 ## Steps to run locally
- - git clone https://github.com/JamiuJimoh/HNG_timbu2.git
+ - git clone https://github.com/JamiuJimoh/HNG_timbu3.git
  - at least, flutter version - 3.22.2
  - visit the [timbu](https://timbu.cloud/) website to create an account
  - create retail business
